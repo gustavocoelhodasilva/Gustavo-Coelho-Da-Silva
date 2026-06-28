@@ -17,6 +17,7 @@ Desenvolvedor em formação. Gosto de Python, jogos e sistemas que rodam no term
 
 * **Ferramentas:**
 <img width="40" height="40" alt="githubdesktoplogo" src="https://github.com/user-attachments/assets/07238611-16e9-4b65-9127-05d7930192d8" />
+<img width="40" height="40" alt="v" src="https://github.com/user-attachments/assets/39207312-2781-46e7-9cf5-0f1b67aa70c1" />
 
 
 ## 🎮 Projetos em Destaque
