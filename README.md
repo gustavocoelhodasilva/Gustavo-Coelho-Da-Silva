@@ -1,6 +1,3 @@
-<img width="225" height="225" alt="c-linguagem logo" src="https://github.com/user-attachments/assets/3a7ab072-aea4-48e3-b337-0453867c27b6" />
-<img width="212" height="238" alt="clogo" src="https://github.com/user-attachments/assets/eb58f39a-a32e-4d30-ae88-a9c40b27df77" />
-<img width="212" height="238" alt="clogo" src="https://github.com/user-attachments/assets/6e7b31ea-906b-4da0-82f4-9a9ee1eeb7c7" />
 # Gustavo Coelho Da Silva
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://vercel.app.">
