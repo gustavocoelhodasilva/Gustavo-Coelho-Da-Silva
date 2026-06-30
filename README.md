@@ -3,17 +3,27 @@
 
 <h1 data-importer="text" align="center">Olá Mundo</h1>
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavocoelhodasilva/gustavocoelhodasilva/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavocoelhodasilva/gustavocoelhodasilva/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gustavocoelhodasilva/gustavocoelhodasilva/output/snake.svg">
+</picture>
+
+
+
+
+
 <details>
-  <summary><font size="4" color="#0A2540"><b>🔵 Saiba mais sobre mim</b></font></summary>
-  <br>
+  <summary><font size="4" color="#0A2540"><h4><b>🔵 Saiba sobre mim</b></font></summary></h4>
   
   <blockquote>
     <h3>👋 Olá! Seja bem-vindo ao meu perfil</h3>
-    <p>Atualmente estou focado em aprender lógica de programação e.</p>
+    <p>Atualmente estou focado em aprender lógica de programação e Python.</p>
     
    📚 O que estou estudando:
     <ul>
-      <li>🐍 <b>Python:</b> Desenvolvimento de scripts, lógica de programação e análise de dados.</li>
+      <li>🐍 <b>Python: </b>lógica de programação, sintaxe.</li>
       <li>🌐 <b>HTML:</b> Estruturação de páginas web.</li>
       <li>💻 <b>C:</b> Fundamentos de computação.</li>
     </ul>
@@ -23,10 +33,11 @@
 
 <br clear="both">
 
-
-
-
-###
+<div data-importer="music" align="left">
+  <a href="https://open.spotify.com/user/31n3tm3gpaln5bqnipekmkxiw45y">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n3tm3gpaln5bqnipekmkxiw45y&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/gs_.coelho/" target="_blank">
@@ -48,11 +59,7 @@
 
 ###
 
-<div data-importer="music" align="left">
-  <a href="https://open.spotify.com/user/31n3tm3gpaln5bqnipekmkxiw45y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n3tm3gpaln5bqnipekmkxiw45y&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
