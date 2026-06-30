@@ -1,7 +1,7 @@
 
 
 
-<h1 data-importer="text" align="center">Olá Mundo</h1>
+<h1 data-importer="text" align="center">Olá Mundo 🌍</h1>
 
 
 <picture>
@@ -14,12 +14,12 @@
 
 
 
-<details>
+
   <summary><font size="4" color="#0A2540"><h4><b>🔵 Saiba sobre mim</b></font></summary></h4>
   
   <blockquote>
     <h3>👋 Olá! Seja bem-vindo ao meu perfil</h3>
-    <p>Atualmente estou focado em aprender lógica de programação e Python.</p>
+    <p>Atualmente estou focado em aprender lógica de programação e Python. Fiz o Curso de Python até o mundo 3 no Curso em video do Gustavo Guanabara.</p>
     
    📚 O que estou estudando:
     <ul>
@@ -28,16 +28,17 @@
       <li>💻 <b>C:</b> Fundamentos de computação.</li>
     </ul>
   </blockquote>
-</details>
+
 
 
 <br clear="both">
 
-<div data-importer="music" align="left">
-  <a href="https://open.spotify.com/user/31n3tm3gpaln5bqnipekmkxiw45y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31n3tm3gpaln5bqnipekmkxiw45y&count=3&unique=true" alt="Spotify recently played"  />
+<p align="left">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n3tm3gpaln5bqnipekmkxiw45y&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-</div>
+</p>
+
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/gs_.coelho/" target="_blank">
@@ -46,16 +47,56 @@
   <a href="gustavocoelhodasilva16072010@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A2540&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-
-
-
-
 </div>
 
-###
+
+---
+
+
+
+
+![Stats](./profile/stats.svg)
+
+
+
+---
+
+
+<summary><h4>Vitrine Profissional✨</h4></summary>
+     <ul>
+          <li><a href="https://github.com/gustavocoelhodasilva/Cromo-RPG">⚔️Cromo-RPG.</a></li>
+          <li><a href="https://github.com/gustavocoelhodasilva/Exercicios-em-Python">🐍Exercicios em Python do Curso em video.</a></li>
+    </ul>
+ 
+
+
+
+
+<details>
+      <summary><h4>Estou aprendendo 🧠</h4></summary>
+              <div data-importer="techs" align="left">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+          <img width="12" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+        </div>
+  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+<details>
+      <summary><h4>Ferramentas 🧰</h4></summary>
+
 
 <div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
@@ -63,31 +104,18 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
-###
+</details>
+
+
+
 
 
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/gustavocoelhodasilva/gustavocoelhodasilva/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ###
 
